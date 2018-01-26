@@ -1,8 +1,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 
-#include "kaprekarUtils.h"
-
+#include<kaprekarUtils.h>
 int main(int argc, char **argv) {
 
   if(argc != 2) {
